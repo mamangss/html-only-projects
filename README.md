@@ -1,7 +1,7 @@
 # HTML Only School Projects
 > Compilation of my school projects using HTML only since 2018.
 
-These are my samll projects at school using HTML only. The initial projects are from my 2018 school year.
+These are my small projects at school using HTML only. The initial projects are from my 2018 school year.
 
 ## Usage example
 
