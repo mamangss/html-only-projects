@@ -15,7 +15,7 @@ You can use this to learn some HTML tags and get an idea out of it whenever you 
 
 ## Meta
 
-Mamangun – [@AskMamangun][mamangss-fb] – mamangunjoshua@gmail.com
+Joshua Mamangun – [@AskMamangun][mamangss-fb] – mamangunjoshua@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
